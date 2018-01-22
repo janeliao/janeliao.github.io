@@ -62,7 +62,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "输入介绍"
+sidebar-about-description: "岩土学习，土工袋加筋土，博士研究生 "
 sidebar-avatar: /img/avatar-jane.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
